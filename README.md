@@ -1,6 +1,6 @@
 # Getting Started
 
-To get started with the Livestream Overlays app, follow these simple steps:
+To get started with the Livestream app, follow these simple steps:
 
 1. Clone the app repository by running the following command in your terminal:
 
@@ -36,7 +36,7 @@ To get started with the Livestream Overlays app, follow these simple steps:
    python index.py
    ```
 
-6. Open your web browser and visit [http://localhost:10000](http://localhost:10000/) to use the Livestream Overlays app.
+6. Open your web browser and visit [http://localhost:10000](http://localhost:10000/) to use the Livestream app.
 
 # Quickstart
 
@@ -51,4 +51,4 @@ To get started with the Livestream Overlays app, follow these simple steps:
    python index.py
 ```
 
-Open your web browser and visit [http://localhost:10000](http://localhost:10000/) to use the Livestream Overlays app.
+Open your web browser and visit [http://localhost:10000](http://localhost:10000/) to use the Livestream app.
